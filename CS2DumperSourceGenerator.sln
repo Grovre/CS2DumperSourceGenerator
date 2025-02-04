@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2DumperSourceGenerator", "CS2DumperSourceGenerator\CS2DumperSourceGenerator.csproj", "{594FF6B3-6421-4DF1-AACF-FD22950EDFC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{53D4C00F-B331-4C63-BB2A-35B4A765F74B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594FF6B3-6421-4DF1-AACF-FD22950EDFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594FF6B3-6421-4DF1-AACF-FD22950EDFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594FF6B3-6421-4DF1-AACF-FD22950EDFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594FF6B3-6421-4DF1-AACF-FD22950EDFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D4C00F-B331-4C63-BB2A-35B4A765F74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D4C00F-B331-4C63-BB2A-35B4A765F74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D4C00F-B331-4C63-BB2A-35B4A765F74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D4C00F-B331-4C63-BB2A-35B4A765F74B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
